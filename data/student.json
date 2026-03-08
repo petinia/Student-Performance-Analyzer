@@ -1,0 +1,20 @@
+[
+    {
+        "name": "petinia",
+        "maths": 15.0,
+        "anglais": 16.0,
+        "informatique": 19.0
+    },
+    {
+        "name": "MICHELLE",
+        "maths": 19.0,
+        "anglais": 2.0,
+        "informatique": 10.0
+    },
+    {
+        "name": "jolina",
+        "maths": 2.0,
+        "anglais": 16.0,
+        "informatique": 11.0
+    }
+]

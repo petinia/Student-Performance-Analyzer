@@ -6,25 +6,9 @@
 ## Présentation et Objectifs
 Ce projet n'est pas une simple liste d'étudiants. C'est une application de gestion conçue avec une **rigueur professionnelle**. L'objectif était de créer un logiciel capable de traiter des données scolaires de manière fluide, avec une interface graphique moderne et une sauvegarde réelle.
 
-## Structure du Projet (Arborescence)
+## Structure du Projet 
 
-Student_Performance_Analyzer/
-│
-├── main.py                # Point d'entrée unique (Lanceur de l'application)
-├── README.md              # Documentation technique
-│
-├── data/                  # Couche de stockage 
-│   └── student.json       # Base de données au format JSON
-│
-├── models/                # Objets métiers (POO)
-│   └── student.py         # Classe "Student" : Définit les attributs et méthodes d'un élève
-│
-├── services/              # Logique et Intelligence 
-│   ├── data_manager.py    # Gestion CRUD (Ajout, Modification, Suppression) et Sauvegarde
-│   └── analysis.py        # Algorithmes de calculs statistiques et moyennes
-│
-└── ui/                    # Interface Utilisateur (GUI)
-    └── interface.py       # Design, couleurs, onglets et gestion des événements Tkinter
+<img src="Structure_des_fichiers.png" alt="Structure des fichiers">
 
 ## Architecture Technique et Modularité (Le point fort)
 
